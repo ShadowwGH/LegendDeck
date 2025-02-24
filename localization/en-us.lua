@@ -6,7 +6,7 @@ return {
                 text = {
                     "Start run with a", 
                     "{C:spectral, T:c_poke_masterball}#1#{} card.",
-                    "{C:red}-2{} Joker slots"
+                    "{C:red}-1{} Joker slot"
                 } 
             }
         },
