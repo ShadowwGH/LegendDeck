@@ -1,0 +1,23 @@
+{
+	"id": "LegendDeck",
+	"name": "LegendDeck",
+	"author": [
+		"Shadoww"
+	],
+	"description": "A mod of the Pokermon mod.",
+	"prefix": "legend",
+	"main_file": "LegendDeck.lua",
+	"priority": 10,
+	"badge_colour": "ED3A53",
+	"badge_text_colour": "FFFFFF",
+	"display_name": "LegendDeck",
+	"version": "0.0.1",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1303a)",
+		"Lovely (>=0.6)",
+		"Pokermon (>=2.6.0)"
+	],
+	"conflicts": [],
+	"provides": [],
+	"dump_loc": false
+}
